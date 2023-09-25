@@ -1,8 +1,15 @@
-- 👋 Hi, I’m @andradeleilane
-- 👀 I’m interested in front-end
-- 🌱 I’m currently learning reactjs
+Hi, I'm Leilane Andrade👋🏻
 
-<!---
-andradeleilane/andradeleilane is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+⭐ About me
+
+👩🏻‍💻 I have worked as a Web Designer for 3 years focusing on Front-end Development of websites and web systems. Designing and coding good user experiences.
+
+🧬 My main stacks are React.js.
+
+🎨 I use Figma for design and turn into fully coded websites.
+
+-- Skills 
+- HTML, CSS, JavaScript, ReactJs
+
+-- More
+- UX/UI Design, Figma, Design System
