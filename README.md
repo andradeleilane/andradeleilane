@@ -9,7 +9,7 @@ Hi, I'm Leilane Andrade👋🏻
 🎨 I use Figma for design and turn into fully coded websites.
 
 -- Skills 
-- HTML, CSS, JavaScript, ReactJs
+- HTML, CSS, SASS, JavaScript, ReactJs
 
 -- More
 - UX/UI Design, Figma, Design System
