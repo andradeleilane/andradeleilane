@@ -2,7 +2,7 @@
 
 ⭐ **About me**
 
-  UI Designer with 5 years of experience, focused on creating good interfaces. With solid skills in responsive design and usability.
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;UI Designer with 5 years of experience, focused on creating good interfaces. With solid skills in responsive design and usability.
 
 👩🏻‍💻 Currently studying more about **ReactJs**
 
