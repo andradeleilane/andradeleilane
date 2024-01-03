@@ -10,7 +10,15 @@
 
 <div style="display: inline_block"><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,js,react,nextjs,ts,tailwind,figma" />
+    <img src="https://skillicons.dev/icons?i=html,css,sass,js,react,nextjs,ts,tailwind" />
+  </a>
+</div>
+
+## 🎨 &nbsp;Design
+
+<div style="display: inline_block"><br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=figma" />
   </a>
 </div>
 
