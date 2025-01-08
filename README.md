@@ -4,8 +4,6 @@
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;UI Designer focused on creating good interfaces. With solid skills in responsive design and usability.
 
-👩🏻‍💻 Currently studying more about **React** and **Next.js**
-
 ## 💻 &nbsp;Technologies
 
 <div style="display: inline_block"><br>
