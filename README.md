@@ -2,7 +2,8 @@
 
 ⭐ **About me**
 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;UI Designer focused on creating good interfaces. With solid skills in responsive design and usability.
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Experience in front-end development and interface design, combining technical skills with a strategic design approach. 
+I am dedicated to creating interfaces that not only meet functional needs but also deliver an improved experience by aligning user-centered design (UX) principles with best practices in web development.
 
 ## 💻 &nbsp;Technologies
 
