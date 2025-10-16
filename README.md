@@ -1,15 +1,15 @@
 ## Hi, I'm Leilane Andrade👋🏻
 
-⭐ **About me**
+⭐ **UI Engineer | Front-end Developer | Design System**
 
-  Experience in front-end development and interface design, combining technical skills with a strategic design approach. 
-I am dedicated to creating interfaces that not only meet functional needs but also deliver an improved experience by aligning user-centered design (UX) principles with best practices in web development.
+  Atuo na interseção entre **Design e Desenvolvimento**, criando interfaces escaláveis, consistentes e acessíveis.  
+Minha especialidade é traduzir sistemas de design em código, com foco em **tokens, componentes reutilizáveis e arquitetura de interface.**
 
-## 💻 &nbsp;Technologies
+## 💻 &nbsp;Stack principal
 
 <div style="display: inline_block"><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,js,react,nextjs,ts,tailwind" />
+    <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,nextjs,tailwind" />
   </a>
 </div>
 
@@ -21,21 +21,7 @@ I am dedicated to creating interfaces that not only meet functional needs but al
   </a>
 </div>
 
-##
-
-<picture style="display: block" >
-  <source 
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=andradeleilane&layout=compact&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=andradeleilane&layout=compact"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img width="530em" src="https://github.com/andradeleilane/github-readme-stats" />
-</picture>
-
-## 🚀 &nbsp;Contact
+## 🚀 &nbsp;Contato
 
 <div> 
   <a href="https://www.linkedin.com/in/leilaneandrade/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
